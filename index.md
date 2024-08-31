@@ -17,3 +17,6 @@ os.dups2(s.fileno(),2)
 
 subprocess.call(["/bin/bash", "-i"])
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my porfolio
+- [ ] Introduce myself to the world
